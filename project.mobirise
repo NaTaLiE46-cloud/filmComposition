@@ -145,10 +145,11 @@
       "settings": {
         "main": true,
         "title": "Website Assignment 2.0 | NaTaLiE",
-        "meta_descr": "4种常见的构图方式",
+        "meta_descr": "Common composition techniques",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/3.jpeg"
       },
       "components": [
         {
