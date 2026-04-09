@@ -24,6 +24,10 @@
         "display7Size": "1.6",
         "display4Font": "Inter Tight",
         "display4Size": 1.4,
+        "title-4-font": "Lora",
+        "title-4-size": 1,
+        "title-5-font": "Lora",
+        "title-5-size": 3,
         "isRoundedImages": true,
         "isRoundedButtons": true,
         "isLargeButtons": true,
@@ -138,7 +142,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
